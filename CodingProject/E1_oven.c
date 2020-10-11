@@ -1,3 +1,4 @@
+//e1 ¿Àºì½Ã°è
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
