@@ -33,6 +33,18 @@
     <ClCompile Include="e1_최댓값.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="e1_hol.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="e1_대표.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="31_white.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="e2_ㅁ.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
