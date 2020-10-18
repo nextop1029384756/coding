@@ -45,6 +45,15 @@
     <ClCompile Include="e2_ㅁ.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="e2_세로.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="e1_자리.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="e2_덩치.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
