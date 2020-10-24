@@ -54,6 +54,12 @@
     <ClCompile Include="e2_덩치.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="e2_cy.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="e2_학급.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">

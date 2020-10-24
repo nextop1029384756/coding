@@ -1,0 +1,2 @@
+C:\Users\nextop\source\repos\coding\CodingProject\x64\Debug\CodingProject.exe
+C:\Users\nextop\source\repos\coding\CodingProject\x64\Debug\CodingProject.pdb
