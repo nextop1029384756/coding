@@ -72,6 +72,21 @@
     <ClCompile Include="e2_numofsutja.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="e2_dup.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="e2.jul.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="m1_cardgame.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="m1_kanzi.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="m1_train.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
