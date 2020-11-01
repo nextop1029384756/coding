@@ -84,7 +84,22 @@
     <ClCompile Include="m1_kanzi.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="m1_train.c">
+    <ClCompile Include="m1_train2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="m1_dice3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="m1_calscore.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="m1_bn.c++">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="m1_sosu.c++">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="m1_대표값.c++">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
