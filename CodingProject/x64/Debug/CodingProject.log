@@ -1,2 +1,3 @@
-﻿  m1_sosu.c++
-  CodingProject.vcxproj -> C:\Users\Administrator\Source\Repos\coding\CodingProject\x64\Debug\CodingProject.exe
+﻿  e3_ant.cpp
+C:\dl\coding\CodingProject\e3_ant.cpp(7,21): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+  CodingProject.vcxproj -> C:\dl\coding\CodingProject\x64\Debug\CodingProject.exe

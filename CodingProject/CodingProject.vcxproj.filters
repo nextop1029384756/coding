@@ -9,98 +9,119 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="소스 파일\헤더 파일">
+    <Filter Include="소스 파일\E1">
+      <UniqueIdentifier>{990f2c10-e487-481d-af0a-4c3562959b64}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\E2">
+      <UniqueIdentifier>{2ae1f5b3-2469-4425-b5d1-99ac0b23ed78}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\M1">
+      <UniqueIdentifier>{53329c61-7685-493c-9e60-bc0bf16ac512}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일">
       <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
       <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
     </Filter>
+    <Filter Include="소스 파일\e3">
+      <UniqueIdentifier>{742c074a-1214-4d59-b78e-219dc6198f02}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="E1_oven.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="e1_train.c">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="31_white.c">
+      <Filter>소스 파일\E1</Filter>
     </ClCompile>
     <ClCompile Include="e1_6num.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="e1_윷.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="e1_약수.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="e1_최댓값.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\E1</Filter>
     </ClCompile>
     <ClCompile Include="e1_hol.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\E1</Filter>
+    </ClCompile>
+    <ClCompile Include="E1_oven.c">
+      <Filter>소스 파일\E1</Filter>
+    </ClCompile>
+    <ClCompile Include="e1_train.c">
+      <Filter>소스 파일\E1</Filter>
     </ClCompile>
     <ClCompile Include="e1_대표.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\E1</Filter>
     </ClCompile>
-    <ClCompile Include="31_white.c">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="e1_약수.c">
+      <Filter>소스 파일\E1</Filter>
     </ClCompile>
-    <ClCompile Include="e2_ㅁ.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="e2_세로.c">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="e1_윷.c">
+      <Filter>소스 파일\E1</Filter>
     </ClCompile>
     <ClCompile Include="e1_자리.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\E1</Filter>
     </ClCompile>
-    <ClCompile Include="e2_덩치.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="e2_cy.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="e2_학급.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="e2_dice.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="e2_su.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="e2_tiger.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="e2_numofsutja.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="e2_dup.c">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="e1_최댓값.c">
+      <Filter>소스 파일\E1</Filter>
     </ClCompile>
     <ClCompile Include="e2.jul.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\E2</Filter>
     </ClCompile>
-    <ClCompile Include="m1_cardgame.c">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="e2_cy.c">
+      <Filter>소스 파일\E2</Filter>
     </ClCompile>
-    <ClCompile Include="m1_kanzi.c">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="e2_dice.c">
+      <Filter>소스 파일\E2</Filter>
     </ClCompile>
-    <ClCompile Include="m1_train2.c">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="e2_dup.c">
+      <Filter>소스 파일\E2</Filter>
     </ClCompile>
-    <ClCompile Include="m1_dice3.c">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="e2_numofsutja.c">
+      <Filter>소스 파일\E2</Filter>
+    </ClCompile>
+    <ClCompile Include="e2_su.c">
+      <Filter>소스 파일\E2</Filter>
+    </ClCompile>
+    <ClCompile Include="e2_tiger.c">
+      <Filter>소스 파일\E2</Filter>
+    </ClCompile>
+    <ClCompile Include="e2_덩치.c">
+      <Filter>소스 파일\E2</Filter>
+    </ClCompile>
+    <ClCompile Include="e2_ㅁ.c">
+      <Filter>소스 파일\E2</Filter>
+    </ClCompile>
+    <ClCompile Include="e2_세로.c">
+      <Filter>소스 파일\E2</Filter>
+    </ClCompile>
+    <ClCompile Include="e2_학급.c">
+      <Filter>소스 파일\E2</Filter>
     </ClCompile>
     <ClCompile Include="m1_calscore.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\M1</Filter>
     </ClCompile>
-    <ClCompile Include="m1_bn.c++">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="m1_cardgame.c">
+      <Filter>소스 파일\M1</Filter>
     </ClCompile>
-    <ClCompile Include="m1_sosu.c++">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="m1_dice3.c">
+      <Filter>소스 파일\M1</Filter>
     </ClCompile>
-    <ClCompile Include="m1_대표값.c++">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="m1_kanzi.c">
+      <Filter>소스 파일\M1</Filter>
+    </ClCompile>
+    <ClCompile Include="m1_train2.c">
+      <Filter>소스 파일\M1</Filter>
+    </ClCompile>
+    <ClCompile Include="m1_대표값.cpp">
+      <Filter>소스 파일\M1</Filter>
+    </ClCompile>
+    <ClCompile Include="m1_sosu.cpp">
+      <Filter>소스 파일\M1</Filter>
+    </ClCompile>
+    <ClCompile Include="m1_bn.cpp">
+      <Filter>소스 파일\M1</Filter>
+    </ClCompile>
+    <ClCompile Include="m1_공배약수.cpp">
+      <Filter>소스 파일\M1</Filter>
+    </ClCompile>
+    <ClCompile Include="e3_stealstick.cpp">
+      <Filter>소스 파일\e3</Filter>
+    </ClCompile>
+    <ClCompile Include="e3_ant.cpp">
+      <Filter>소스 파일\e3</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
