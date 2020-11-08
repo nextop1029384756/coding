@@ -25,6 +25,9 @@
     <Filter Include="소스 파일\e3">
       <UniqueIdentifier>{742c074a-1214-4d59-b78e-219dc6198f02}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\BOJ">
+      <UniqueIdentifier>{818a645d-56f5-4b27-ad8a-9d4284741875}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="31_white.c">
@@ -122,6 +125,18 @@
     </ClCompile>
     <ClCompile Include="e3_ant.cpp">
       <Filter>소스 파일\e3</Filter>
+    </ClCompile>
+    <ClCompile Include="helloworld.cpp">
+      <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="A+B.cpp">
+      <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="star-3.cpp">
+      <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="abc.cpp">
+      <Filter>소스 파일\BOJ</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
