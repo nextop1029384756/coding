@@ -13,7 +13,7 @@ int main(void)
 			r += n;
 		else if (A[i] == '(')
 			n++;
-		else if (A[i] == ')' && A[i-1] != '(')
+		else if (A[i] == ')' && A[i + 1] != '(')
 		{
 			n--;
 			r += 1;
