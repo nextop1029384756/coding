@@ -138,7 +138,10 @@
     <ClCompile Include="abc.cpp">
       <Filter>소스 파일\BOJ</Filter>
     </ClCompile>
-    <ClCompile Include="1129.cpp">
+    <ClCompile Include="4949 균형잡힌 세상.cpp">
+      <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="카드2.cpp">
       <Filter>소스 파일\BOJ</Filter>
     </ClCompile>
   </ItemGroup>
