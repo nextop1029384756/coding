@@ -9,9 +9,6 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="소스 파일\E1">
-      <UniqueIdentifier>{990f2c10-e487-481d-af0a-4c3562959b64}</UniqueIdentifier>
-    </Filter>
     <Filter Include="소스 파일\E2">
       <UniqueIdentifier>{2ae1f5b3-2469-4425-b5d1-99ac0b23ed78}</UniqueIdentifier>
     </Filter>
@@ -27,6 +24,9 @@
     </Filter>
     <Filter Include="소스 파일\BOJ">
       <UniqueIdentifier>{818a645d-56f5-4b27-ad8a-9d4284741875}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\E1">
+      <UniqueIdentifier>{990f2c10-e487-481d-af0a-4c3562959b64}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -142,6 +142,12 @@
       <Filter>소스 파일\BOJ</Filter>
     </ClCompile>
     <ClCompile Include="카드2.cpp">
+      <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="0110.cpp">
+      <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="AC.cpp">
       <Filter>소스 파일\BOJ</Filter>
     </ClCompile>
   </ItemGroup>

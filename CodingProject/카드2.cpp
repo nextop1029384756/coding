@@ -45,9 +45,6 @@ int main(void)
 
 		n /= 2;
 	}
-	
-	
-
 
 	return 0;
 }

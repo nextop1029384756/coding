@@ -4,3 +4,5 @@ C:\Users\Administrator\Source\Repos\coding\CodingProject\x64\Debug\CodingProject
 C:\Users\Administrator\Source\Repos\coding\CodingProject\x64\Debug\CodingProject.pdb
 C:\dl\coding\CodingProject\x64\Debug\CodingProject.exe
 C:\dl\coding\CodingProject\x64\Debug\CodingProject.pdb
+C:\Users\Administrator\source\repos\nextop1029384756\coding\CodingProject\x64\Debug\CodingProject.exe
+C:\Users\Administrator\source\repos\nextop1029384756\coding\CodingProject\x64\Debug\CodingProject.pdb
